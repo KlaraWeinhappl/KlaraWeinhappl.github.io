@@ -1,0 +1,261 @@
+/* === Base Button Styles === */
+.download-btn {
+    display: inline-block;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    background-color: #3498db;
+    color: #ffffff;
+    border-radius: 5px;
+    border: none;
+    transition: background-color 0.3s ease;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.download-btn:hover {
+    background-color: #2980b9;
+}
+
+/* === Core Element Styles === */
+.no-border {
+    border: none !important;
+}
+
+/* Responsive base typography */
+@media screen and (max-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+/* Global link styling */
+a {
+    color: #eb6864;
+    text-decoration: underline;
+    transition: color 0.2s ease;
+}
+
+a:hover {
+    color: #e74c3c;
+    text-decoration: underline;
+}
+
+/* === Abstract Collapse System === */
+/* Basic states */
+.collapse:not(.show) {
+    display: none;
+}
+
+/* Add a wrapper to maintain space */
+.collapse,
+.collapsing {
+    display: block;
+    padding-bottom: 1rem !important; /* Fixed space that never changes */
+    height: auto;
+}
+
+/* Only animate the inner content */
+.collapsing {
+    height: 0;
+    overflow: hidden;
+    transition: height 0.35s ease;
+}
+
+/* Base card style */
+.card.no-border {
+    padding: 0.6rem;
+    background-color: #f8f7f6;
+    border-radius: 4px;
+    margin: 0 !important; /* Remove margin from card */
+}
+
+/* Work in Progress adjustment */
+/*#collapseExample2,*/
+#collapseExample3 {
+    margin-top: -1rem !important;
+}
+
+/* === Navigation Styling === */
+.navbar {
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+/* === Section Headers === */
+h1, h2 {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
+
+/* === Responsive Layout === */
+@media screen and (max-width: 768px) {
+    .grid {
+        margin: 0 1rem;
+    }
+    
+    .navbar-brand {
+        font-size: 1.2rem;
+    }
+}
+
+/* === Title Block Styling === */
+.quarto-title-block .quarto-title-banner {
+    margin-bottom: 2rem;
+}
+
+/* === Mobile Adjustments === */
+@media screen and (max-width: 768px) {
+    .quarto-about-trestles .about-entity {
+        margin-top: 2rem !important;
+        margin-bottom: 2rem !important;
+    }
+    
+    .quarto-about-trestles .about-image-container {
+        padding-top: 2rem !important;
+    }
+    
+    .quarto-about-trestles .about-image {
+        margin-top: 2rem !important;
+    }
+}
+
+/* === About Section Spacing === */
+.quarto-about-trestles {
+    padding-top: 1rem;
+}
+
+.about-contents {
+    padding-top: 1.5rem;
+}
+
+/* === List Styling === */
+ul li li {
+    list-style-type: "▸ ";
+}
+
+/* === Typography === */
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Crimson Pro', serif !important;
+    font-weight: 600;
+}
+
+.navbar-brand, .nav-link {
+    font-family: 'Crimson Pro', serif !important;
+}
+
+.navbar-brand {
+    font-size: 1.3rem !important;
+    font-weight: 600;
+}
+
+.nav-link {
+    font-size: 1.1rem !important;
+    font-weight: 500;
+}
+
+/* === Header Adjustments === */
+h1:first-of-type {
+    margin-top: 0 !important;
+    padding-top: 0.5rem !important;
+}
+
+/* === Content Layout === */
+.content h2,
+.content strong,
+.content-visible h2,
+#research,
+#short-bio,
+#teaching {
+    margin-left: 0 !important;
+    padding-left: 0 !important;
+    text-indent: 0 !important;
+}
+
+/* === Section Styling === */
+section {
+    margin: 1.5rem 0 0.5rem 0 !important;
+    margin-top: -3rem !important;
+    padding: 1.5rem 1.5rem 1rem !important;
+    background: #f8f7f6;
+    border-radius: 4px;
+}
+
+#research {
+    margin-top: -2rem !important;
+}
+
+/* === Header Styling === */
+h2 {
+    margin-top: 2rem !important;
+    margin-bottom: 1.5rem !important;
+    position: relative;
+    color: #2c3e50;
+}
+
+h2::after {
+    content: '';
+    position: absolute;
+    bottom: -0.5rem;
+    left: 0;
+    width: 3rem;
+    height: 2px;
+    background: #2c3e50;
+    opacity: 0.2;
+}
+
+/* === Footer Section === */
+section:last-of-type {
+    margin-bottom: 0 !important;
+    padding-bottom: 0.5rem !important;
+}
+
+/* === Grid System === */
+/* Remove default borders */
+.grid,
+.grid > *,
+.about-entity,
+.quarto-about-trestles,
+.quarto-about-trestles .grid,
+.quarto-about-trestles .grid > *,
+.quarto-about-trestles .about-entity,
+div[class*="about"] {
+    border: none !important;
+}
+
+/* === List Spacing === */
+ul li {
+    margin-bottom: 1rem !important;
+}
+
+ul li ul li {
+    margin-bottom: 0.5rem !important;
+}
+
+/* === Buttons === */
+.about-links {
+    display: flex;
+    gap: 1rem;
+}
+
+.about-link {
+    padding: 0.8rem 1.5rem;
+    border-radius: 8px;
+    transition: all 0.3s ease;
+    background: linear-gradient(135deg, #eb6864, #e74c3c);
+    color: white !important;
+    box-shadow: 0 4px 15px rgba(235, 104, 100, 0.2);
+}
+
+.about-link:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(235, 104, 100, 0.3);
+    background: linear-gradient(135deg, #e74c3c, #eb6864);
+    color: white !important;
+}
+
+.about-link .bi {
+    margin-right: 0.5rem;
+    font-size: 1.1em;
+}
+
+
