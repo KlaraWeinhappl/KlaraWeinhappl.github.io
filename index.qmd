@@ -1,0 +1,26 @@
+---
+title: " "
+
+---
+
+&nbsp;
+
+
+<img src="profile.jpg" alt="Klara Weinhappl" width="270" style="float: left; margin-right: 50px; margin-left: -300px; margin-bottom: 10px;" />
+
+
+Hi!
+
+
+I'm a PhD student at the University of Vienna. My research interests are empirical industrial organization, competition economics, and environmental economics. My advisors are [Christine Zulehner](https://homepage.univie.ac.at/christine.zulehner/){target="_blank"} and [Philipp Schmidt-Dengler](https://homepage.univie.ac.at/philipp.schmidt-dengler/){target="_blank"}.
+
+
+For more details please check out my [CV](https://drive.google.com/file/d/1bXoLVv2TaDxYdX9EYrZ4LkAYeCX-6Jwn/view?usp=drive_link) or feel free to contact me at [klara.weinhappl@univie.ac.at](mailto:klara.weinhappl@univie.ac.at)!
+
+&nbsp;
+
+**Work in Progress:**
+
+  - Empirical Assessment of Merger Remedies in Europe (joint with Christine Zulehner)
+  - Deforestation Policies and Their Impact on Coffee Consumption 
+
