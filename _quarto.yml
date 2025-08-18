@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: docs
+  output-dir: .
 
 website:
   google-analytics: "G-JBWPRMFXM3"
@@ -26,7 +26,7 @@ format:
     css: styles.css
     
 grid:
-     body-width: 60%
+     body-width: 1000px       
      margin-width: 10px
 
 
