@@ -27,7 +27,7 @@ format:
     
 grid:
      body-width: 1000px       
-     margin-width: 10px
+     margin-width: 50px
 
 
 editor: visual
