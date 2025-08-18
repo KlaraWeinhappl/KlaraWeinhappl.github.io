@@ -6,7 +6,7 @@ title: " "
 &nbsp;
 
 
-<img src="profile.jpg" alt="Klara Weinhappl" width="270" style="float: left; margin-right: 50px; margin-left: -300px; margin-bottom: 10px;" />
+<img src="profile.jpg" alt="Klara Weinhappl" width="270" style="float: left; margin-right: 50px; margin-left: 50px; margin-bottom: 10px;" />
 
 
 Hi!
