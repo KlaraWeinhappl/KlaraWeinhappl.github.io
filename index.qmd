@@ -1,5 +1,7 @@
 ---
 title: "Klara Weinhappl"
+pagetitle: "Klara Weinhappl"
+title-block-banner: false
 ---
 <style>
 @media (max-width: 600px) {
