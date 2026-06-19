@@ -3,6 +3,7 @@ title: " "
 pagetitle: "Klara Weinhappl"
 title-block-banner: false
 ---
+
 <style>
 @media (max-width: 600px) {
   .profile-img {
@@ -59,6 +60,6 @@ For more details please check out my [CV](https://drive.google.com/file/d/1HfoEu
 
   - Empirical Assessment of Merger Remedies in Europe (joint with Christine Zulehner)
 
-<small> *Abstract: We study EU merger policies, focusing on the effectiveness of merger remedies in maintaining competition in post-merger markets. Remedies require merging firms to divest parts of their product portfolio to a competitor and are important tools for competition authorities. We gather data on EU-wide merger cases, decided both with and without remedies. We combine evidence from event studies and merger simulations. We also study how remedies should optimally be designed. To do so, we simulate a wide range of counterfactual remedy designs. These vary in the choice of purchasing firms and the set of divested brands, helping us identify which characteristics make remedies more or less likely to succeed.* </small>
+<small> *Abstract: We study EU merger policies, focusing on the effectiveness of merger remedies in maintaining competition in post-merger markets. Remedies require merging firms to divest parts of their product portfolio to a competitor and are important tools for competition authorities. We gather data on EU-wide merger cases, decided both with and without remedies. We combine evidence from event studies and merger simulations. We also study how remedies should optimally be designed. To do so, we simulate a wide range of counterfactual remedy designs. These vary in the choice of purchasing firms and the set of divested brands helping us identify which characteristics make remedies more or less likely to succeed.* </small>
 </div>
 </small>
