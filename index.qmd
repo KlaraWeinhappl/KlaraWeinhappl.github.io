@@ -1,26 +1,62 @@
 ---
 title: " "
-
 ---
+<style>
+@media (max-width: 600px) {
+  .profile-img {
+    float: none !important;
+    display: block !important;
+    margin: 0 auto 20px auto !important;
+    width: 80% !important;
+    max-width: 270px !important;
+  }
+  .bio-div {
+    margin-right: 0 !important;
+    margin-left: 0 !important;
+    text-align: left !important;
+  }
+  .research-div {
+    clear: none !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    text-align: left !important;
+  }
+}
+</style>
+
+<img src="profile5.jpg" alt="Klara Weinhappl" width="270" class="profile-img" style="float: left; margin-right: 50px; margin-left: -50px; margin-bottom: 10px;" />
+<small>
+<div class="bio-div" style="margin-right: 50px; text-align: justify;">
 
 &nbsp;
 
-
-<img src="profile.jpg" alt="Klara Weinhappl" width="270" style="float: left; margin-right: 50px; margin-left: 50px; margin-bottom: 10px;" />
-
-
-Hi!
-
-
-I'm a PhD student at the University of Vienna. My research interests are empirical industrial organization, competition economics, and environmental economics. My advisors are [Christine Zulehner](https://homepage.univie.ac.at/christine.zulehner/){target="_blank"} and [Philipp Schmidt-Dengler](https://homepage.univie.ac.at/philipp.schmidt-dengler/){target="_blank"}.
-
-
-For more details please check out my [CV](https://drive.google.com/file/d/1bXoLVv2TaDxYdX9EYrZ4LkAYeCX-6Jwn/view?usp=drive_link) or feel free to contact me at [klara.weinhappl@univie.ac.at](mailto:klara.weinhappl@univie.ac.at)!
-
 &nbsp;
 
-**Work in Progress:**
+Welcome to my webpage! I'm Klara, a PhD student at the University of Vienna.
+&nbsp;
+
+My research interests are empirical industrial organization, competition economics, and environmental economics. My advisors are [Christine Zulehner](https://homepage.univie.ac.at/christine.zulehner/){target="_blank"} and [Philipp Schmidt-Dengler](https://homepage.univie.ac.at/philipp.schmidt-dengler/){target="_blank"}.
+For more details please check out my [CV](https://drive.google.com/file/d/1QL59Jbl2TtlAigEFjmEYq8B7M7bzscpz/view?usp=sharing) or feel free to contact me at [klara.weinhappl@univie.ac.at](mailto:klara.weinhappl@univie.ac.at)!
+</div>
+</small>
+<small>
+<div class="research-div" style="clear: left; margin-left: -50px; margin-right: 50px; text-align: justify;">
+
+&nbsp;
+&nbsp;
+
+**Research:**
+&nbsp;
+
+  - Distributional Effects of Environmental Regulation: Evidence from Household Consumption (JMP)
+
+
+<small> *Abstract: Distributional concerns have become central to the design and evaluation of environmental regulation. This paper studies how its costs and benefits are shared across consumers along the income distribution. I focus on environmental regulation affecting consumption goods and analyze its impact through two key channels: changes in retail prices arising from compliance costs and changes in environmental product attributes. I apply my framework to the EU Regulation on Deforestation-free Products in the German coffee market using detailed household-level data. Estimating a random coefficients model allowing for heterogeneous price sensitivity and willingness to pay for environmental attributes, I simulate the policy's implementation and decompose changes in consumer surplus into a price and an attribute channel, highlighting how effects differ systematically across income groups. Preliminary results suggest that lower-income households are disproportionately affected by the policy, although improvements in environmental product quality could attenuate these effects.*
+
+[[Working Paper]](https://drive.google.com/file/d/1dMKwZi0oABKhNzRKShIg5GCco88-f58b/view?usp=sharing)</small>
 
   - Empirical Assessment of Merger Remedies in Europe (joint with Christine Zulehner)
-  - Deforestation Policies and Their Impact on Coffee Consumption 
 
+<small> *Abstract: We study EU merger policies, focusing on the effectiveness of merger remedies in maintaining competition in post-merger markets. Remedies require merging firms to divest parts of their product portfolio to a competitor and are important tools for competition authorities. We gather data on EU-wide merger cases, decided both with and without remedies. We combine evidence from event studies and merger simulations. We also study how remedies should optimally be designed. To do so, we simulate a wide range of counterfactual remedy designs. These vary in the choice of purchasing firms and the set of divested brands helping us identify which characteristics make remedies more or less likely to succeed.* </small>
+</div>
+</small>
